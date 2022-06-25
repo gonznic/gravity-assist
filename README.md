@@ -51,3 +51,7 @@ The objective of the game is to launch your ship from the home planet, which is 
 <img src="https://user-images.githubusercontent.com/103907036/175787281-9ec083c1-60b9-4550-bd6e-d6912667685e.png" width="400">
 
 * Play again.
+
+## License
+
+GNU General Public License v3.0
