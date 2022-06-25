@@ -1,5 +1,3 @@
-
-
 import processing.core.PApplet;
 import processing.core.PFont;
 import spaceObjects.BlackHole;
